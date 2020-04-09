@@ -27,3 +27,11 @@ d) accessor methods
 e) mutator methods
 
     * setHeight(double len), setBase(double b), set(double len, double b)
+   
+   
+# TASK3
+https://github.com/ilham-mmr/EXERCISES/tree/master/Exercise5/Task3
+
+![](https://github.com/ilham-mmr/EXERCISES/blob/master/Exercise5/Task3/payrollOutput.PNG)
+
+
