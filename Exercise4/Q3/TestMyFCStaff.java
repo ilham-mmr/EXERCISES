@@ -16,4 +16,4 @@ public class TestMyFCStaff {
         staff.displaySalary();
         }
    
-© 2020 GitHub, Inc.
+
