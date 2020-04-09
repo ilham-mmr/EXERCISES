@@ -5,6 +5,13 @@
     * When it’s run it has no output since no method or no display method is called.
     
 # TASK2
+https://github.com/ilham-mmr/EXERCISES/blob/master/Exercise5/TriangleDemo.java
+
+![GitHub Logo](https://github.com/ilham-mmr/EXERCISES/blob/master/Exercise5/triangleOutput.PNG)
+
+
+
+
 a) object
 
     * scanner and triangle
