@@ -6,12 +6,17 @@
     
 # TASK2
 a) object
+
     * scanner and triangle
 b) user-defined methods with return value
+
     * getHeight(), getBase(), getArea()
-c) user-defined methods with passing-parameters 
+c) user-defined methods with passing-parameters
+
     * setHeight(double len), setBase(double b), set(double len, double b)
 d) accessor methods
+
     * getHeight(), getBase(), getArea()
 e) mutator methods
+
     * setHeight(double len), setBase(double b), set(double len, double b)
